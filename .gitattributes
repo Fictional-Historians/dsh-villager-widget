@@ -1,0 +1,12 @@
+# 统一换行，避免 assets 里的单行大文件被 CRLF 改写
+* text=auto eol=lf
+*.js text eol=lf
+*.yml text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.png binary
+*.jpg binary
+*.gif binary
+*.wav binary
+*.mp3 binary
+*.tgz binary
