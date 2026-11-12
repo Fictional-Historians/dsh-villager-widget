@@ -18,6 +18,13 @@
 >
 > 如果你只想要原版小鲸鱼，请直接安装上游 `dsh-whale-widget`，不要用本分支。
 
+> **安装**
+> ``sh
+> dsh plugin add dsh-villager-widget
+> dsh plugin add github:Fictional-Historians/dsh-villager-widget   # 或直接从仓库装
+> ``
+>
+> 装完重载 DSH。首次启动约 2.5 秒后会在后台扫描本机 Minecraft 并生成村民素材。
 ---
 
 ## ⚠️ 使用前提：本机需要安装了 **Minecraft Java 版**
